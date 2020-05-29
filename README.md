@@ -29,4 +29,9 @@ The dataset used for this project is based on 2014 ACS 1-year estimates. It incl
 
 This repository includes a scatter plot visualization, which was deployed [here](https://sahobitayo.github.io/D3-challenge/D3_data_journalism/). The D3 code is available here inside this repository.
 
+### Tools Used
+- **Javascript**
+- **HTML**
+- **CSS**
+- **D3**
 
