@@ -27,6 +27,6 @@ Each circle on the visualization represents a different state in the U.S. To see
 
 The dataset used for this project is based on 2014 ACS 1-year estimates. It includes data on rates of income, obesity, poverty, etc. by state. The information comes from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
-
+This repository includes a scatter plot visualization, which was deployed [here](https://sahobitayo.github.io/D3-challenge/D3_data_journalism/). The D3 code is available here inside this repository.
 
 
